@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 {"mainfile":"src/index.html","terminalcommand":"npm start"}
+=======
+{"mainfile":"test.py",
+"compilemenucommand":"python3 test.py",
+"runmenucommand":"python3 test.py"
+}
+>>>>>>> 1e4230ce2eb451bb7a98711b62d6fb51710a3908
